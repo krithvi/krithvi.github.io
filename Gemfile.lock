@@ -261,6 +261,7 @@ DEPENDENCIES
   github-pages (~> 209)
   jekyll (~> 3.9)
   jekyll-include-cache
+  jekyll-theme-hacker (~> 0.1.2)
   nokogiri
 
 BUNDLED WITH
