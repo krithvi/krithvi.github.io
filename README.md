@@ -1,7 +1,7 @@
-## home 
-
+## krithvi.github.io 
+<!-->home<-->
 This is my personal website hosted on GitHub Pages (using [Jekyll](https://jekyllrb.com/)). It has been written using [Markdown](./markdown.md).
 
-### Jekyll Theme
+Visit the website: krithvi.github.io
 
-The theme used here is [Hacker](https://github.com/pages-themes/hacker).
+Feel free to contact me through the website (especially if you discover the *secrets beyond*).
