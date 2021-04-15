@@ -12,3 +12,7 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 # more gems
 
 gem 'nokogiri'
+gem 'jekyll-mentions'
+gem 'jekyll-feed'
+gem 'jekyll-sitemap'
+gem 'jekyll-gist'
