@@ -2,13 +2,14 @@
 layout: default
 title: About
 ---
+
 # About page
 
 This page tells you a little bit about me.
 
-"Me" in the sense, the site you are looking at *or* the human responsible for creating it? 
+"Me" in the sense, the site you are looking at _or_ the human responsible for creating it?
 
-Woah...... *Deep.* 
+Woah...... _Deep._
 
 😂
 
@@ -27,11 +28,11 @@ Anyways here's the root directory structure:
 │   │       └── bullet.png
 │   ├── about.html 		# you are here
 │   ├── index.html
-│   └── README.md			
+│   └── README.md
 ├── _data
 │   └── navigation.yml
 ├── _layouts
-│   ├── _site	
+│   ├── _site
 │   │   └── default.html
 │   └── default.html
 ├── _includes
@@ -49,7 +50,8 @@ Anyways here's the root directory structure:
 ├── index.html
 └── README.md
 ```
-<!-- 
+
+<!--
 ├── = joint
 │ = between
 └── = end
