@@ -1,6 +1,8 @@
-- name: Home
+- name: 🎛️
   link: /
-- name: About
+- name: 🧑🏾 About
   link: /about.html
-- name: Blog
+- name: 🧑🏾‍💻 Projects
   link: /blog.html
+- name: 🤹🏾 Skills
+  link: /skills.html

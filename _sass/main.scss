@@ -1,3 +1,10 @@
+$default: #59b;
+$active: #6ac;
+$hover: #6bd;
+$text: #fff;
+$element: #368;
+$dark: #0d0d0d;
+
 body {
   background-color: black;
   position: fixed; 
@@ -18,11 +25,11 @@ canvas{
 }
 
 .current {
-  color: rgba(241, 241, 241, 0.5);
+  text-decoration-style: dotted;
 }
 
 nav{
-  background: rgba(100, 100, 100, 0.5);
+  background: $element;
   color: rgb(240, 255, 255);
   position: fixed;
   display: block;
@@ -30,6 +37,8 @@ nav{
   left: 0;
   width: 100%;
   padding: 10px;
+  font-family: 'Source Code Pro';
+  font-weight: 700 ;
 }
 
 .container-sm {
@@ -42,9 +51,19 @@ nav{
 }
 
 a {
-  color: azure;
+  color: #fff;
 }
 
 a.hover {
-  color: rgb(220, 171, 248);
+  color: $dark;
+}
+
+#a-nav {
+  text-decoration: none;
+}
+
+#info {
+  background-color: $element;
+  position: relative;
+
 }
