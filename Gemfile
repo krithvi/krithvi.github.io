@@ -20,3 +20,4 @@ gem 'jekyll-sitemap'
 gem 'jekyll-gist'
 
 gem "webrick", "~> 1.8"
+gem "rack-jekyll"
