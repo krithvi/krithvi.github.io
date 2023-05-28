@@ -8,6 +8,8 @@ gem 'jekyll', '~> 3.9'
 
 gem "github-pages", "~> 209", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
+require 'dotenv'
+Dotenv.load
 
 # more gems
 
