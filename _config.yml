@@ -4,3 +4,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+url: "https://krithvi.github.io/space-cadet/"
